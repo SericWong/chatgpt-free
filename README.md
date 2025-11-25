@@ -1,4 +1,4 @@
-# ChatGPT 中文版 | 国内优质镜像网站免费推荐（支持 GPT-4o, o1, o3, o4）
+# ChatGPT 中文版 | 国内优质镜像网站免费推荐（支持 GPT-5, Claude4.5）
 
 ## 📢 畅享 ChatGPT 中文版，无需翻墙，全面支持 GPT-4o, o1, o3, o4（2025-11-24更新）
 
@@ -8,8 +8,8 @@
 
 ### 🚀 快速访问入口
 
-- **ChatGPT 中文版**：[chat.aibox365.cn](https://chat.aibox365.cn)
-- **ChatGPT 镜像网站**：[aibox365.com](https://aibox365.com)
+- **ChatGPT 中文版**：[ gpt 中文版](https://chat.aibox365.cn)
+- **ChatGPT 镜像网站**：[ai镜像站](https://chat.write360.cn)
 
 ## 🤔 什么是 ChatGPT 中文版？
 
@@ -25,8 +25,8 @@
 
 | 镜像站地址 | 支持版本 | 免费额度 | 注册方式 | 稳定性 | 功能亮点 |
 |------------|----------|----------|----------|--------|----------|
-| [chat.aibox365.cn](https://chat.aibox365.cn) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持 GPT-4o 及 MJ 绘图，适合开发者、学生和普通用户 |
-| [aibox365.com](https://aibox365.com) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 一比一还原官网体验，支持 AI 助手、插件和 AI 绘图功能 |
+| [gpt 中文版](https://chat.aibox365.cn) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持 GPT-4o 及 MJ 绘图，适合开发者、学生和普通用户 |
+| [ai镜像站](https://chat.write360.cn) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 一比一还原官网体验，支持 AI 助手、插件和 AI 绘图功能 |
 
 ## 🌟 为什么选择 ChatGPT 中文版？
 
